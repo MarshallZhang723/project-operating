@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Operating"
+  short_description: "Manage project state, handoff, and execution"
+  default_prompt: "Use $project-operating to inspect this project state, identify the next step, and continue execution."
+
+policy:
+  allow_implicit_invocation: true
